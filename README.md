@@ -39,6 +39,7 @@ Nome: Nome do contato.
 Telefone: Telefone do contato.
 
 🖼️ Modelo De Tela
+
 ![Captura de tela 2024-12-01 192945](https://github.com/user-attachments/assets/8640b62b-6ff3-46d0-9788-14562a36152e)
 ![Captura de tela 2024-12-01 193011](https://github.com/user-attachments/assets/449aaa9c-b7c3-4cdf-bde8-284be20c647a)
 ![Captura de tela 2024-12-01 193031](https://github.com/user-attachments/assets/0666d22a-0c07-4e46-a5c4-ff3a24972700)
