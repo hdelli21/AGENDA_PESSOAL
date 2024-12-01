@@ -43,6 +43,11 @@ Telefone: Telefone do contato.
 ![Captura de tela 2024-12-01 192945](https://github.com/user-attachments/assets/8640b62b-6ff3-46d0-9788-14562a36152e)
 ![Captura de tela 2024-12-01 193011](https://github.com/user-attachments/assets/449aaa9c-b7c3-4cdf-bde8-284be20c647a)
 ![Captura de tela 2024-12-01 193031](https://github.com/user-attachments/assets/0666d22a-0c07-4e46-a5c4-ff3a24972700)
+![Captura de tela 2024-12-01 195108](https://github.com/user-attachments/assets/43176d5e-0d75-4470-b761-e6fdc5bdc586)
+![Captura de tela 2024-12-01 195047](https://github.com/user-attachments/assets/f0a49453-d14f-4cf6-af6b-ac96df8c3ac1)
+![Captura de tela 2024-12-01 195005](https://github.com/user-attachments/assets/33ab4e3f-8d30-427b-af42-b37a21551880)
+![Captura de tela 2024-12-01 194937](https://github.com/user-attachments/assets/239a4325-8f5b-47e0-844b-96bcd51aca3f)
+
 
 
 📌 Versões
